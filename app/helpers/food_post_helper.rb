@@ -1,0 +1,2 @@
+module FoodPostHelper
+end
